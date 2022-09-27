@@ -1,4 +1,8 @@
-<header class="container">
+<header>
     <h1>{{title}}</h1>
-    <h2>{{name}}</h2>
+    <app-button
+        color="green" 
+        text="Add Task"
+        (btnClick)="toggleAddTask()">
+    </app-button>
 </header>

@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "text": "Terminar primer modulo de Angular",
+      "day": "Agosto 5 a las 12:00",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Estudiar Jetpack Compose",
+      "day": "Octubre 5 a las 12:00",
+      "reminder": true
+    },
+    {
+      "text": "Actualizar peliculas",
+      "day": "Todos los dias",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Sitio web diagrama de turno",
+      "day": "Mañana",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
